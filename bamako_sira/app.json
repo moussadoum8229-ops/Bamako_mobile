@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "bamako_sira",
+    "slug": "bamako_sira",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/Logo1.jpeg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/Logo1.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/Logo1.jpeg",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
